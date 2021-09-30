@@ -6,7 +6,7 @@
  
 - 🔭  My goal is to turn my passion for CS into a career
 
-- ⚡ Interests: following CS and space news, creative writing, video games, AI, cybernetics
+- ⚡ My interests: following CS and space news, creative writing, video games, AI, cybernetics
  
 - 📫  How to reach me: [Twitter](https://www.twitter.com/morozov_dev) or [LinkedIn](https://www.linkedin.com/in/aleksandr-mor/)
 
