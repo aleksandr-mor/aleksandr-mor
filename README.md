@@ -1,6 +1,6 @@
 ## Hi, I'm Aleksandr! 👋
 
-### I'm an iOS developer, medical doctor and project manager.
+### iOS developer, medical doctor and project manager.
 
 - 🌱  I’m currently studying at the iOS App Development Bootcamp, [Udemy.com](https://www.udemy.com/share/101WsW3@3rhQrAMzBs7qXYQSDrWXfHwghzCXuNdQrizFIy9f2Tab7dbRvQ5bxAA6URNWzr5O-g==/)
  
