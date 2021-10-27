@@ -4,7 +4,7 @@
 
 🌱  I’m currently studying at the iOS App Development Bootcamp, [Udemy.com](https://www.udemy.com/share/101WsW3@3rhQrAMzBs7qXYQSDrWXfHwghzCXuNdQrizFIy9f2Tab7dbRvQ5bxAA6URNWzr5O-g==/)
  
-🔭  My goal is to turn my passion for CS into a career
+🔭  My goal is to turn my passion for CS into a career in tech
 
 ⚡ My interests: following CS and space news, creative writing, video games, AI, cybernetics
  
