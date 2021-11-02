@@ -2,7 +2,7 @@
 
 ### iOS developer, medical doctor and project manager.
 
-🌱  I’m currently studying at the iOS App Development Bootcamp, [Udemy.com](https://www.udemy.com/share/101WsW3@3rhQrAMzBs7qXYQSDrWXfHwghzCXuNdQrizFIy9f2Tab7dbRvQ5bxAA6URNWzr5O-g==/)
+🌱  I’m currently learning iOS Development 
  
 🔭  My goal is to turn my passion for CS into a career in tech
 
