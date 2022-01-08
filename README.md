@@ -2,7 +2,7 @@
 
 ### iOS developer, medical doctor and project manager.
 
-🌱  I’m currently learning iOS Development 
+🌱  I’m currently sharpening my iOS development skills.
  
 🔭  My goal is to turn my passion for CS into a career in tech
 
