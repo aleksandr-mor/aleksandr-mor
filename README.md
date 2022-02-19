@@ -6,7 +6,7 @@
  
 🔭  My goal is to turn my passion for CS into a career in tech
 
-⚡ My interests: software localization (Russian), creative writing, following CS and space news, video games, AI, cybernetics
+⚡ My interests: software localization, creative writing, following CS and space news, family travels, AI, cybernetics
  
 📫  Feel free to reach me:
 
