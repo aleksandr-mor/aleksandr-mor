@@ -2,7 +2,7 @@
 
 ### iOS developer, medical doctor and project manager.
 
-🌱  I’m currently working on [Qwifty](https://apps.apple.com/ru/app/qwifty/id1626605129), Swift programming language Quiz App 
+🌱  I’m currently working on [Qwifty](https://apps.apple.com/ru/app/qwifty/id1626605129) – Swift programming language Quiz App 
  
 🔭  My goal is to turn my passion for CS into a career in tech
 
