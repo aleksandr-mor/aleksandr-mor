@@ -4,7 +4,7 @@
 
 🌱  I’m currently working on [Qwifty](https://apps.apple.com/ru/app/qwifty/id1626605129) – Swift programming language Quiz App 
  
-🔭  My goal is to turn my passion for CS into a career in tech
+🔭  My goal is to turn my passion for CS into a career in Tech
 
 ⚡ My interests: software localization, creative writing, following CS and space news, family travels, AI, cybernetics
  
