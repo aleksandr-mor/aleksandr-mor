@@ -1,6 +1,6 @@
 ## Hi, I'm Aleksandr! 👋
 
-### iOS developer, medical doctor and project manager.
+### iOS developer and medical doctor.
 
 🌱  I’m currently working on [Qwifty](https://apps.apple.com/ru/app/qwifty/id1626605129) – Swift programming language Quiz App 
  
