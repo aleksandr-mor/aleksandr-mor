@@ -6,7 +6,7 @@
  
 🔭  My goal is to turn my passion for CS into a career in Tech
 
-⚡ My interests: tech, creative writing, family travels, AI, cybernetics
+⚡ My interests: software development, AI, cybernetics, creative writing and family travels
  
 📫  Feel free to reach me:
 
