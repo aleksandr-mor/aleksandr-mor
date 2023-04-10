@@ -2,7 +2,7 @@
 
 ### iOS Developer and Medical Doctor
 
-🌱  I’m currently working on my next indie App
+🌱  I’m currently looking for a new project
  
 🔭  My goal is to turn my passion for CS into a career in Tech
 
