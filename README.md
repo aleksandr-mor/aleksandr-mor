@@ -2,7 +2,7 @@
 
 ### iOS Developer and Medical Doctor
 
-⚡ My interests: software development, AI, content creating, 
+⚡ My interests: software development, AI, content creating
 
 [![Codewars](https://www.codewars.com/users/aleksandr-mor/badges/micro)](https://www.codewars.com/users/aleksandr-mor)
  
