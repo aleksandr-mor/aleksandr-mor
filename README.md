@@ -1,4 +1,4 @@
-## Hi, I'm Alex! 👋
+## Hi, I'm Aleksandr! 👋
 
 ### iOS Developer and Medical Doctor
 
